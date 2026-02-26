@@ -1,0 +1,9 @@
+# dependencies
+node_modules/
+# next.js
+.next/
+# supabase
+supabase/.temp/
+# env
+.env
+.env.local
